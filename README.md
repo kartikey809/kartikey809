@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kartikey809
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m kartikey
+- 💞️ I’m looking to collaborate on projects
 
 
 <!---
