@@ -1,7 +1,7 @@
 - 👋 Hi, I’m kartikey
 - 💞️ I’m looking to collaborate on projects
 - 📊 Data Science Enthusiast 
-- ⭐ Improving DSA skills
+- ⭐ Practising DSA skills
 
 
 <!---
